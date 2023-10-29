@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Website1/static/css/main.257d848f.css",
-    "main.js": "/Website1/static/js/main.848094fd.js",
+    "main.js": "/Website1/static/js/main.08c747d9.js",
     "static/js/787.29c9c67c.chunk.js": "/Website1/static/js/787.29c9c67c.chunk.js",
     "static/media/NoNameBrand-SRS-Mouseion.pdf": "/Website1/static/media/NoNameBrand-SRS-Mouseion.6f43ca81a6a522f3f00a.pdf",
     "static/media/NoNameBrand-SRS-Mouseion.docx": "/Website1/static/media/NoNameBrand-SRS-Mouseion.617d99f88d1c7b879fcc.docx",
@@ -13,11 +13,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/Website1/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/Website1/index.html",
     "main.257d848f.css.map": "/Website1/static/css/main.257d848f.css.map",
-    "main.848094fd.js.map": "/Website1/static/js/main.848094fd.js.map",
+    "main.08c747d9.js.map": "/Website1/static/js/main.08c747d9.js.map",
     "787.29c9c67c.chunk.js.map": "/Website1/static/js/787.29c9c67c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.257d848f.css",
-    "static/js/main.848094fd.js"
+    "static/js/main.08c747d9.js"
   ]
 }
