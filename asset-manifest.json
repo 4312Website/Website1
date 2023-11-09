@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/Website1/static/css/main.257d848f.css",
-    "main.js": "/Website1/static/js/main.08c747d9.js",
+    "main.css": "/Website1/static/css/main.03197123.css",
+    "main.js": "/Website1/static/js/main.034f4966.js",
     "static/js/787.29c9c67c.chunk.js": "/Website1/static/js/787.29c9c67c.chunk.js",
     "static/media/NoNameBrand-SRS-Mouseion.pdf": "/Website1/static/media/NoNameBrand-SRS-Mouseion.6f43ca81a6a522f3f00a.pdf",
     "static/media/NoNameBrand-SRS-Mouseion.docx": "/Website1/static/media/NoNameBrand-SRS-Mouseion.617d99f88d1c7b879fcc.docx",
     "static/media/Deliverable1.pdf": "/Website1/static/media/Deliverable1.4fc44b4fa74584311d9c.pdf",
+    "static/media/EECS4312 SRS Inspection By No Name Brand Softwares.pdf": "/Website1/static/media/EECS4312 SRS Inspection By No Name Brand Softwares.06a89a7fe5bfe6682558.pdf",
     "static/media/Blender.ttf": "/Website1/static/media/Blender.2f5cdf145c82f530eff1.ttf",
     "static/media/Deliverable1.docx": "/Website1/static/media/Deliverable1.7dbd71d07455930ebce6.docx",
     "static/media/helvetica-neu.ttf": "/Website1/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/LaBelleAurore.woff2": "/Website1/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "static/media/CoolveticaRg-Regular.woff2": "/Website1/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/Website1/index.html",
-    "main.257d848f.css.map": "/Website1/static/css/main.257d848f.css.map",
-    "main.08c747d9.js.map": "/Website1/static/js/main.08c747d9.js.map",
+    "main.03197123.css.map": "/Website1/static/css/main.03197123.css.map",
+    "main.034f4966.js.map": "/Website1/static/js/main.034f4966.js.map",
     "787.29c9c67c.chunk.js.map": "/Website1/static/js/787.29c9c67c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.257d848f.css",
-    "static/js/main.08c747d9.js"
+    "static/css/main.03197123.css",
+    "static/js/main.034f4966.js"
   ]
 }
